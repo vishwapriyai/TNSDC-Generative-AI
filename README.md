@@ -71,4 +71,5 @@ After training, the model is evaluated using various metrics:
 
 ## GUI Application
 - A simple GUI application is created using Tkinter to allow users to upload images and classify them. The application displays the predicted traffic sign based on the uploaded image.
-
+![Output Image](TNSDC-Generative-AI/Output/1.png)
+![Output Image](TNSDC-Generative-AI/Output/2.png)
